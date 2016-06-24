@@ -1,0 +1,7 @@
+factsystem/*
+logs/*
+node_modules/*
+systemDB/*
+testfacts/*
+
+.DS_Store
